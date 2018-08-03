@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Googletranslate" skipped="0" tests="1" time="23.49" timestamp="2018-06-06 11:40:48"><testcase name="Traducir de Español al inglés"><failure message="&#10;Expected: &quot;Камиза&quot;&#10;     but: was &quot;кашуля&quot;" type="java.lang.AssertionError">
+Expected: "Камиза"
+     but: was "кашуля"</failure><system-err>
+Expected: "Камиза"
+     but: was "кашуля"&#13;
+co.com.bancolombia.certification.google.stepdefinitions.GoogleTranslateStepDefinitions.elDeberiaVerLaPalabraMesaEnLaPantalla(GoogleTranslateStepDefinitions.java:53)&#13;
+✽.el deberia ver la palabra Камиза en la pantalla(src/test/resources/features/googleTranslate.feature:19)&#13;
+</system-err></testcase></testsuite>
