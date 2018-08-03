@@ -1,13 +1,11 @@
 package co.com.bancolombia.certification.google.tasks;
 
-import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.Performable;
-import net.serenitybdd.screenplay.Task;
-import net.serenitybdd.screenplay.actions.Click;
-
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-import co.com.bancolombia.certification.google.ui.GoogleAppsComponent;;
+import co.com.bancolombia.certification.google.ui.GoogleAppsComponent;
+import net.serenitybdd.screenplay.Actor;
+import net.serenitybdd.screenplay.Task;
+import net.serenitybdd.screenplay.actions.Click;;
 
 public class IrA implements Task{
 

@@ -1,14 +1,11 @@
 package co.com.bancolombia.certification.google.tasks;
 
 import co.com.bancolombia.certification.google.ui.GoogleTranslatePage;
-import jxl.common.LengthUnit;
 import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
-import net.serenitybdd.screenplay.targets.Target;
 
 public class Traducir implements Task{
 
